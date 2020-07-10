@@ -7,6 +7,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 cd react-udemy
 create-react-app react-udemy-assignment1
 
+
+git init
+git commit -m "first commit"
+
+git remote add origin https://github.com/pokiebob/react-udemy-assignment1.git
+
+Now create the repo through the github web page
+git push -u origin master
+
+
 ## Available Scripts
 
 In the project directory, you can run:
