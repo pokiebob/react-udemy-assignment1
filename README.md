@@ -5,15 +5,15 @@ Author: CC
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-`cd react-udemy`
-`create-react-app react-udemy-assignment1`
+### `cd react-udemy`
+### `create-react-app react-udemy-assignment1`
 
 
 
-git init
-git commit -m "first commit"
+### git init
+### git commit -m "first commit"
 
-git remote add origin https://github.com/pokiebob/react-udemy-assignment1.git
+### git remote add origin https://github.com/pokiebob/react-udemy-assignment1.git
 
 Now create the repo through the github web page
 git push -u origin master
